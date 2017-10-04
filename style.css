@@ -1,0 +1,33 @@
+body {
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  color: #4d4d4f;
+}
+#Container {
+  margin: 0 auto;
+  width: 80%;
+}
+.Location {
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: solid 1px #ccc;
+}
+.Location-name {
+  font-size: 30px;
+}
+.Location-recordings {
+  padding: 10px;
+}
+.Location-recordings:last-child {
+  padding-bottom: none;
+}
+.Location-recordingTime {
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+.LocationData {
+  border: solid 1px #ccc;
+}
+.LocationData-row:nth-child(even) {
+  background-color: #eee;
+}
