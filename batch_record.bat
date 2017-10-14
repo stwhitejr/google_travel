@@ -1,3 +1,3 @@
 c:\
-cd c:\users\stwhite\dev\google_travel
-start node google_travel.js
+cd c:\users\steve\dev\google_travel
+start node request_data.js

@@ -1,0 +1,3417 @@
+[
+   {
+      "id":"home",
+      "name":"127 Webster St Rockland, MA 02370",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"52 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"21.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"51 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"21.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"21.6 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"52 mins",
+                  "duration_in_traffic":"1 hour 10 mins",
+                  "distance":"21.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"51 mins",
+                  "duration_in_traffic":"1 hour 10 mins",
+                  "distance":"21.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"1 hour 13 mins",
+                  "distance":"21.6 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"56 mins",
+                  "duration_in_traffic":"1 hour 16 mins",
+                  "distance":"21.6 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"54 mins",
+                  "duration_in_traffic":"1 hour 11 mins",
+                  "distance":"20.9 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"21.6 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"56 mins",
+                  "duration_in_traffic":"1 hour 18 mins",
+                  "distance":"20.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"54 mins",
+                  "duration_in_traffic":"1 hour 17 mins",
+                  "distance":"20.9 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"1 hour 15 mins",
+                  "distance":"21.6 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"54 mins",
+                  "duration_in_traffic":"1 hour 18 mins",
+                  "distance":"20.9 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 13 mins",
+                  "distance":"21.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"1 hour 16 mins",
+                  "distance":"21.2 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"56 mins",
+                  "duration_in_traffic":"1 hour 20 mins",
+                  "distance":"20.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"21.6 mi",
+                  "via":"MA-3 N and I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"127 Webster St, Rockland, MA 02370, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"1 hour 14 mins",
+                  "distance":"21.6 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         }
+      ],
+      "is_control":true
+   },
+   {
+      "id":"bra1",
+      "name":"166 Walnut St Braintree, MA 02184",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"24 mins",
+                  "duration_in_traffic":"46 mins",
+                  "distance":"11.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"24 mins",
+                  "duration_in_traffic":"48 mins",
+                  "distance":"11.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"34 mins",
+                  "duration_in_traffic":"43 mins",
+                  "distance":"11.5 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"47 mins",
+                  "distance":"13.8 mi",
+                  "via":"MA-28 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"24 mins",
+                  "duration_in_traffic":"50 mins",
+                  "distance":"11.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"24 mins",
+                  "duration_in_traffic":"50 mins",
+                  "distance":"11.6 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"28 mins",
+                  "duration_in_traffic":"46 mins",
+                  "distance":"17.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"28 mins",
+                  "duration_in_traffic":"46 mins",
+                  "distance":"17.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"25 mins",
+                  "duration_in_traffic":"44 mins",
+                  "distance":"17.3 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"25 mins",
+                  "duration_in_traffic":"54 mins",
+                  "distance":"17.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"28 mins",
+                  "duration_in_traffic":"50 mins",
+                  "distance":"17.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"24 mins",
+                  "duration_in_traffic":"50 mins",
+                  "distance":"11.6 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"24 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"11.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"28 mins",
+                  "duration_in_traffic":"49 mins",
+                  "distance":"17.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"25 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"11.7 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"52 mins",
+                  "distance":"13.8 mi",
+                  "via":"MA-28 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"28 mins",
+                  "duration_in_traffic":"49 mins",
+                  "distance":"17.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"166 Walnut St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"31 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"17.6 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"bra2",
+      "name":"74 Bellevue Rd Braintree, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"47 mins",
+                  "distance":"13.1 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"48 mins",
+                  "distance":"13.4 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"46 mins",
+                  "distance":"12.4 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"47 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"12.8 mi",
+                  "via":"William T Morrissey Blvd"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"41 mins",
+                  "duration_in_traffic":"51 mins",
+                  "distance":"13.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"26 mins",
+                  "duration_in_traffic":"54 mins",
+                  "distance":"13.6 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"35 mins",
+                  "duration_in_traffic":"51 mins",
+                  "distance":"18.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"49 mins",
+                  "distance":"18.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"49 mins",
+                  "distance":"18.8 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"29 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"18.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"19.1 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"52 mins",
+                  "distance":"18.6 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"35 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"13.1 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"35 mins",
+                  "duration_in_traffic":"54 mins",
+                  "distance":"18.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"35 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"13.0 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"27 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"13.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"38 mins",
+                  "duration_in_traffic":"54 mins",
+                  "distance":"18.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"74 Bellevue Rd, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"38 mins",
+                  "duration_in_traffic":"56 mins",
+                  "distance":"19.3 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"bra3",
+      "name":"91 Franklin St Braintree, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"45 mins",
+                  "distance":"14.1 mi",
+                  "via":"MA-28 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"46 mins",
+                  "distance":"14.1 mi",
+                  "via":"MA-28 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"37 mins",
+                  "duration_in_traffic":"45 mins",
+                  "distance":"12.7 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"48 mins",
+                  "distance":"14.1 mi",
+                  "via":"MA-28 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"50 mins",
+                  "distance":"14.1 mi",
+                  "via":"MA-28 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"49 mins",
+                  "distance":"12.2 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"31 mins",
+                  "duration_in_traffic":"49 mins",
+                  "distance":"17.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"31 mins",
+                  "duration_in_traffic":"47 mins",
+                  "distance":"17.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"29 mins",
+                  "duration_in_traffic":"47 mins",
+                  "distance":"17.9 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"47 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"14.5 mi",
+                  "via":"Chickatawbut Rd"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"30 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"18.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"52 mins",
+                  "distance":"18.7 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"25 mins",
+                  "duration_in_traffic":"59 mins",
+                  "distance":"12.4 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"52 mins",
+                  "distance":"18.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"29 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"18.0 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"14.1 mi",
+                  "via":"MA-28 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"31 mins",
+                  "duration_in_traffic":"51 mins",
+                  "distance":"17.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"91 Franklin St, Braintree, MA 02184, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"18.1 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"holb1",
+      "name":"153 Belcher St Holbrook, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"15.9 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"15.9 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"45 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"16.2 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"56 mins",
+                  "distance":"21.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"55 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"17.7 mi",
+                  "via":"Washington St"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"15.7 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"21.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"22.5 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"21.3 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"37 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"16.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"22.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"1 hour 4 mins",
+                  "distance":"16.8 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"16.4 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 6 mins",
+                  "distance":"16.4 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"15.8 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 13 mins",
+                  "distance":"16.4 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"21.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"153 Belcher St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"16.4 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"holb2",
+      "name":"177 Pond St Holbrook, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"45 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"17.4 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"47 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"17.1 mi",
+                  "via":"Liberty St"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"17.2 mi",
+                  "via":"Liberty St"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"22.9 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"57 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"18.6 mi",
+                  "via":"Washington St"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"34 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"17.3 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"22.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"22.9 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"59 mins",
+                  "distance":"22.8 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"34 mins",
+                  "duration_in_traffic":"1 hour 12 mins",
+                  "distance":"17.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"17.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"1 hour 4 mins",
+                  "distance":"17.2 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"34 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"17.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 6 mins",
+                  "distance":"16.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"38 mins",
+                  "duration_in_traffic":"1 hour 6 mins",
+                  "distance":"17.0 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"34 mins",
+                  "duration_in_traffic":"1 hour 14 mins",
+                  "distance":"17.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"34 mins",
+                  "duration_in_traffic":"1 hour 8 mins",
+                  "distance":"17.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"177 Pond St, Holbrook, MA 02343, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"34 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"17.3 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"wey1",
+      "name":"39 Hawthorne St Weymouth, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"15.3 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"15.5 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"51 mins",
+                  "distance":"14.6 mi",
+                  "via":"William T Morrissey Blvd"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"20.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"45 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"21.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"47 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"14.7 mi",
+                  "via":"William T Morrissey Blvd"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"20.8 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"21.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"20.8 mi",
+                  "via":"Quincy Shore Dr"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"20.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 2 mins",
+                  "distance":"21.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"20.0 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 6 mins",
+                  "distance":"21.0 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"21.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"21.6 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 8 mins",
+                  "distance":"14.5 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"20.3 mi",
+                  "via":"I-90 W"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"39 Hawthorne St, East Weymouth, MA 02189, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"21.1 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"wey2",
+      "name":"70 Century Rd Weymouth, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"17.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"53 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"17.5 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"56 mins",
+                  "distance":"17.7 mi",
+                  "via":"MA-3 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"1 hour 2 mins",
+                  "distance":"22.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"22.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"23.5 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"1 hour 3 mins",
+                  "distance":"23.4 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"22.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"35 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"23.4 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"16.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"17.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"29 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"17.8 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"29 mins",
+                  "duration_in_traffic":"1 hour 14 mins",
+                  "distance":"17.8 mi",
+                  "via":"MA-3 N and I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"16.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"37 mins",
+                  "duration_in_traffic":"1 hour 8 mins",
+                  "distance":"17.8 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"1 hour 13 mins",
+                  "distance":"16.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"29 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"17.8 mi",
+                  "via":"MA-3 N and I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"70 Century Rd, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"17.8 mi",
+                  "via":"Quincy Shore Dr"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"wey3",
+      "name":"4 Edward Cody Ln Weymouth, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"30 mins",
+                  "duration_in_traffic":"1 hour 4 mins",
+                  "distance":"17.7 mi",
+                  "via":"MA-3 N and I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"17.5 mi",
+                  "via":"MA-3 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"45 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"17.7 mi",
+                  "via":"MA-3 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"17.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"1 hour 2 mins",
+                  "distance":"18.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"1 hour 3 mins",
+                  "distance":"23.3 mi",
+                  "via":"MA-3 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"1 hour 8 mins",
+                  "distance":"17.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"17.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"23.2 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"30 mins",
+                  "duration_in_traffic":"1 hour 12 mins",
+                  "distance":"17.7 mi",
+                  "via":"MA-3 N and I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"37 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"18.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"30 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"17.7 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"30 mins",
+                  "duration_in_traffic":"1 hour 13 mins",
+                  "distance":"17.7 mi",
+                  "via":"MA-3 N and I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"37 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"17.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"33 mins",
+                  "duration_in_traffic":"1 hour 10 mins",
+                  "distance":"17.5 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"1 hour 15 mins",
+                  "distance":"17.5 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"30 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"17.7 mi",
+                  "via":"MA-3 N and I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"4 Edward Cody Ln, Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"30 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"17.7 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"wey4",
+      "name":"224 Pond St Weymouth, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"56 mins",
+                  "distance":"17.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"47 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"16.8 mi",
+                  "via":"William T Morrissey Blvd"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"17.0 mi",
+                  "via":"William T Morrissey Blvd"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"22.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"37 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"22.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 2 mins",
+                  "distance":"17.1 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"1 hour 4 mins",
+                  "distance":"22.8 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"38 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"22.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"38 mins",
+                  "duration_in_traffic":"59 mins",
+                  "distance":"22.6 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 11 mins",
+                  "distance":"17.1 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"41 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"16.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 4 mins",
+                  "distance":"17.1 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 12 mins",
+                  "distance":"17.1 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"35 mins",
+                  "duration_in_traffic":"1 hour 2 mins",
+                  "distance":"22.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"17.1 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 16 mins",
+                  "distance":"17.1 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"17.1 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"224 Pond St, South Weymouth, MA 02190, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"32 mins",
+                  "duration_in_traffic":"1 hour 6 mins",
+                  "distance":"17.1 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"nat1",
+      "name":"11 Ingleside Rd Natick, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"23 mins",
+                  "duration_in_traffic":"28 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"23 mins",
+                  "duration_in_traffic":"27 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"23 mins",
+                  "duration_in_traffic":"28 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"28 mins",
+                  "duration_in_traffic":"29 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"28 mins",
+                  "duration_in_traffic":"30 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"23 mins",
+                  "duration_in_traffic":"30 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"23 mins",
+                  "duration_in_traffic":"33 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"23 mins",
+                  "duration_in_traffic":"34 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"23 mins",
+                  "duration_in_traffic":"32 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"25 mins",
+                  "duration_in_traffic":"39 mins",
+                  "distance":"15.7 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"25 mins",
+                  "duration_in_traffic":"35 mins",
+                  "distance":"15.7 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"25 mins",
+                  "duration_in_traffic":"36 mins",
+                  "distance":"15.7 mi",
+                  "via":"I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"25 mins",
+                  "duration_in_traffic":"43 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"29 mins",
+                  "duration_in_traffic":"40 mins",
+                  "distance":"15.4 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"29 mins",
+                  "duration_in_traffic":"39 mins",
+                  "distance":"15.4 mi",
+                  "via":"I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"30 mins",
+                  "duration_in_traffic":"47 mins",
+                  "distance":"15.4 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"25 mins",
+                  "duration_in_traffic":"36 mins",
+                  "distance":"15.7 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"11 Ingleside Rd, Natick, MA 01760, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"23 mins",
+                  "duration_in_traffic":"44 mins",
+                  "distance":"15.5 mi",
+                  "via":"I-90 E"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"sher1",
+      "name":"34 S Main St Sherborn, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"41 mins",
+                  "distance":"19.6 mi",
+                  "via":"MA-16 E and I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"41 mins",
+                  "distance":"19.6 mi",
+                  "via":"MA-16 E and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"40 mins",
+                  "distance":"19.6 mi",
+                  "via":"MA-16 E and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"44 mins",
+                  "distance":"19.7 mi",
+                  "via":"MA-16 E and I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"45 mins",
+                  "distance":"19.6 mi",
+                  "via":"MA-16 E and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"44 mins",
+                  "distance":"19.6 mi",
+                  "via":"MA-16 E and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"48 mins",
+                  "distance":"19.7 mi",
+                  "via":"MA-16 E and I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"34 mins",
+                  "duration_in_traffic":"54 mins",
+                  "distance":"23.0 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"47 mins",
+                  "distance":"19.7 mi",
+                  "via":"MA-16 E and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"20.1 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"54 mins",
+                  "distance":"19.7 mi",
+                  "via":"MA-16 E and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"19.7 mi",
+                  "via":"MA-16 E and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"41 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"20.3 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"40 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"20.8 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"56 mins",
+                  "distance":"20.4 mi",
+                  "via":"I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"41 mins",
+                  "duration_in_traffic":"59 mins",
+                  "distance":"20.0 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"34 S Main St, Sherborn, MA 01770, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"41 mins",
+                  "duration_in_traffic":"54 mins",
+                  "distance":"20.3 mi",
+                  "via":"I-90 E"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"shar1",
+      "name":"36 Harold St Sharon, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"29.1 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"56 mins",
+                  "distance":"28.9 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"28.9 mi",
+                  "via":"I-95 N and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"1 hour 0 mins",
+                  "duration_in_traffic":"1 hour 4 mins",
+                  "distance":"26.4 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"28.9 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"1 hour 2 mins",
+                  "distance":"29.1 mi",
+                  "via":"I-95 N and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"51 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"29.4 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"1 hour 10 mins",
+                  "distance":"28.1 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"51 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"29.4 mi",
+                  "via":"I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"1 hour 18 mins",
+                  "distance":"28.1 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"1 hour 13 mins",
+                  "distance":"28.9 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 18 mins",
+                  "distance":"30.1 mi",
+                  "via":"I-95 N and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 17 mins",
+                  "distance":"30.1 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"1 hour 10 mins",
+                  "distance":"28.1 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 12 mins",
+                  "distance":"30.0 mi",
+                  "via":"I-95 N and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"1 hour 11 mins",
+                  "distance":"30.0 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"36 Harold St, Sharon, MA 02067, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"30.0 mi",
+                  "via":"I-95 N and I-90 E"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"stou1",
+      "name":"701 Park St Stoughton, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"51 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"19.8 mi",
+                  "via":"MA-24 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"29.7 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"49 mins",
+                  "duration_in_traffic":"59 mins",
+                  "distance":"29.7 mi",
+                  "via":"I-95 N and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"51 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"19.8 mi",
+                  "via":"MA-24 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"51 mins",
+                  "duration_in_traffic":"1 hour 4 mins",
+                  "distance":"19.8 mi",
+                  "via":"MA-24 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"30.4 mi",
+                  "via":"I-95 N and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 8 mins",
+                  "distance":"20.3 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"20.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"56 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"19.1 mi",
+                  "via":"MA-138 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"41 mins",
+                  "duration_in_traffic":"1 hour 24 mins",
+                  "distance":"33.9 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"47 mins",
+                  "duration_in_traffic":"1 hour 12 mins",
+                  "distance":"19.9 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 12 mins",
+                  "distance":"20.5 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"55 mins",
+                  "duration_in_traffic":"1 hour 13 mins",
+                  "distance":"19.0 mi",
+                  "via":"MA-138 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"45 mins",
+                  "duration_in_traffic":"1 hour 11 mins",
+                  "distance":"30.7 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"45 mins",
+                  "duration_in_traffic":"1 hour 10 mins",
+                  "distance":"30.7 mi",
+                  "via":"I-95 N and I-90 E"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"56 mins",
+                  "duration_in_traffic":"1 hour 8 mins",
+                  "distance":"19.0 mi",
+                  "via":"MA-138 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"701 Park St, Stoughton, MA 02072, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"32.0 mi",
+                  "via":"I-95 N"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"cant1",
+      "name":"1661 Washington St Canton, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"36 mins",
+                  "duration_in_traffic":"46 mins",
+                  "distance":"24.4 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"49 mins",
+                  "distance":"13.1 mi",
+                  "via":"Blue Hill Avenue"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"46 mins",
+                  "distance":"13.1 mi",
+                  "via":"Blue Hill Avenue"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"50 mins",
+                  "distance":"21.9 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"13.1 mi",
+                  "via":"Blue Hill Avenue"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"13.1 mi",
+                  "via":"Blue Hill Avenue"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"48 mins",
+                  "duration_in_traffic":"55 mins",
+                  "distance":"21.7 mi",
+                  "via":"I-90 E"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"37 mins",
+                  "duration_in_traffic":"54 mins",
+                  "distance":"24.9 mi",
+                  "via":"I-95 N and I-90 E"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"13.4 mi",
+                  "via":"Canton Ave"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"13.3 mi",
+                  "via":"MA-138 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"13.2 mi",
+                  "via":"Blue Hill Avenue"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 2 mins",
+                  "distance":"13.6 mi",
+                  "via":"MA-138 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"13.2 mi",
+                  "via":"MA-138 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"45 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"13.4 mi",
+                  "via":"MA-138 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"13.6 mi",
+                  "via":"MA-138 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"13.1 mi",
+                  "via":"Blue Hill Avenue"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"1661 Washington St, Canton, MA 02021, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"57 mins",
+                  "distance":"13.5 mi",
+                  "via":"Canton Ave"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"hing1",
+      "name":"92 Fort Hill St Hingham, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"45 mins",
+                  "duration_in_traffic":"56 mins",
+                  "distance":"15.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"47 mins",
+                  "duration_in_traffic":"53 mins",
+                  "distance":"15.9 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"50 mins",
+                  "distance":"14.9 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"45 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"20.7 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"54 mins",
+                  "distance":"22.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"47 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"15.1 mi",
+                  "via":"William T Morrissey Blvd"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"21.3 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"56 mins",
+                  "distance":"21.9 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"56 mins",
+                  "distance":"22.1 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"46 mins",
+                  "duration_in_traffic":"59 mins",
+                  "distance":"22.2 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"44 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"22.4 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"20.5 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"21.3 mi",
+                  "via":"Quincy Shore Dr"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"20.5 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"42 mins",
+                  "duration_in_traffic":"1 hour 8 mins",
+                  "distance":"15.9 mi",
+                  "via":"Quincy Shore Dr"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 6 mins",
+                  "distance":"14.9 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"92 Fort Hill St, Hingham, MA 02043, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"1 hour 0 mins",
+                  "distance":"20.5 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "id":"nor1",
+      "name":"104 Grove St Norwell, MA",
+      "recording_times":[
+         {
+            "departure_time":"6:30",
+            "index":0,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"24.6 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"57 mins",
+                  "duration_in_traffic":"1 hour 1 min",
+                  "distance":"19.2 mi",
+                  "via":"MA-53 S"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"43 mins",
+                  "duration_in_traffic":"58 mins",
+                  "distance":"24.7 mi",
+                  "via":"MA-3 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"6:45",
+            "index":1,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"1 hour 6 mins",
+                  "distance":"19.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"1 hour 5 mins",
+                  "distance":"19.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"39 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"19.2 mi",
+                  "via":"MA-3 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:00",
+            "index":2,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"19.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"19.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"33 mins",
+                  "duration_in_traffic":"1 hour 4 mins",
+                  "distance":"20.0 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"7:30",
+            "index":3,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"51 mins",
+                  "duration_in_traffic":"1 hour 15 mins",
+                  "distance":"19.1 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"1 hour 12 mins",
+                  "distance":"19.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"41 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"19.7 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:00",
+            "index":4,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"53 mins",
+                  "duration_in_traffic":"1 hour 16 mins",
+                  "distance":"18.4 mi",
+                  "via":"MA-53 S"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"50 mins",
+                  "duration_in_traffic":"1 hour 10 mins",
+                  "distance":"19.0 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Thursday Oct 12",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"41 mins",
+                  "duration_in_traffic":"1 hour 9 mins",
+                  "distance":"19.7 mi",
+                  "via":"I-93 N"
+               }
+            ]
+         },
+         {
+            "departure_time":"8:30",
+            "index":5,
+            "recordings":[
+               {
+                  "date":"Tuesday Oct 10",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"51 mins",
+                  "duration_in_traffic":"1 hour 16 mins",
+                  "distance":"18.8 mi",
+                  "via":"I-93 N"
+               },
+               {
+                  "date":"Wednesday Oct 11",
+                  "start_address":"104 Grove St, Norwell, MA 02061, USA",
+                  "end_address":"100 Huntington Ave, Boston, MA 02116, USA",
+                  "duration":"33 mins",
+                  "duration_in_traffic":"1 hour 7 mins",
+                  "distance":"20.0 mi",
+                  "via":"MA-3 N and I-93 N"
+               }
+            ]
+         }
+      ]
+   }
+]

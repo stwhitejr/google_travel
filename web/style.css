@@ -1,33 +1,67 @@
 body {
   font-family: arial, sans-serif;
-  font-size: 16px;
+  font-size: 12px;
   color: #4d4d4f;
+  background-color: #efefef;
+  margin: 0;
 }
-#Container {
-  margin: 0 auto;
-  width: 80%;
-}
-.Location {
-  padding-bottom: 10px;
-  margin-bottom: 10px;
-  border-bottom: solid 1px #ccc;
+.container {
+  background-color: #fff;
+  padding: 10px 20px;
+  margin: 10px auto;
+  width: 90%;
+  border-radius: 3px;
+  box-shadow: 0 0 5px #ccc;
 }
 .Location-name {
-  font-size: 30px;
+  font-size: 120%;
+  font-weight: bold;
 }
 .Location-recordings {
-  padding: 10px;
+  padding: 5px 0;
 }
 .Location-recordings:last-child {
   padding-bottom: none;
 }
 .Location-recordingTime {
-  font-size: 20px;
+  font-size: 110%;
   padding-bottom: 5px;
 }
 .LocationData {
   border: solid 1px #ccc;
 }
-.LocationData-row:nth-child(even) {
-  background-color: #eee;
+.LocationData-row:nth-child(odd) {
+  background-color: #efefef;
+}
+table {
+  border-radius: 3px;
+  width: 95%;
+}
+td,
+th {
+  padding: 5px;
+}
+th {
+  background-color: #f1f6ff;
+  text-align: left;
+}
+th:nth-child(1),
+th:nth-child(5) {
+  width: 25%;
+}
+td {
+  font-size: 90%;
+}
+.flex_box {
+  display: flex;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: solid 1px #ccc;
+}
+.col {
+  flex: 1;
+}
+h1 {
+  font-size: 135%;
+  font-weight: normal;
 }

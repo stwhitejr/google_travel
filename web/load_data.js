@@ -1,28 +1,44 @@
+// TODO
+// Add toggles for set times only
+// Add accordian tabs
+// Better comparison window, only 1 result of control and fix it's position
+
 function loadData() {
-  var jsonData;
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
      jsonData = this.responseText;
-     loadMustache(jsonData);
+     loadMustache(jsonData, true);
+     xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+       jsonData = this.responseText;
+       loadMustache(jsonData, false);
+      }
+    };
+    xhttp.open("GET", "pm_data.json", true);
+    xhttp.send();
     }
   };
-  xhttp.open("GET", "data.json", true);
+  xhttp.open("GET", "am_data.json", true);
   xhttp.send();
 }
-//TODO mustache template is cached or something
-function loadMustache(jsonData) {
+
+function loadMustache(jsonData, isAm) {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      mustacheData = this.responseText;
+      mustacheTemplate = this.responseText;
       jsonData = {
-        recordings: JSON.parse(jsonData)
+        locations: JSON.parse(jsonData)
       };
-      console.log(mustacheData);
-      Mustache.parse(mustacheData);
-      var rendered = Mustache.render(mustacheData, jsonData);
-      var content = document.getElementById('content');
+      if (isAm) {
+        contentId = 'am_content';
+      } else {
+        contentId = 'pm_content';
+      }
+      Mustache.parse(mustacheTemplate);
+      var rendered = Mustache.render(mustacheTemplate, jsonData);
+      var content = document.getElementById(contentId);
       content.innerHTML = rendered;
     }
   };

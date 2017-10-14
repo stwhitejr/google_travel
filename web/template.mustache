@@ -1,52 +1,72 @@
 {{#locations}}
-  <div class="Location">
-    <div class="Location-name">
-      {{name}}
-    </div>
-    {{#recording_times}}
-      <div class="Location-recordings">
-        <div class="Location-recordingTime">
-          {{departure_date}}
+  {{^is_control}}
+    <div class="flex_box">
+      <div class="col">
+        <div class="Location">
+          <div class="Location-name">
+            {{name}}
+          </div>
+          {{#recording_times}}
+            <div class="Location-recordings">
+              <div class="Location-recordingTime">
+                {{departure_time}}
+              </div>
+              <table class="LocationData">
+                <tr>
+                  <th>Date</th>
+                  <th>Travel w/ Traffic</th>
+                  <th>Travel w/o Traffic</th>
+                  <th>Distance</th>
+                  <th>Via</th>
+                </tr>
+                {{#recordings}}
+                  <tr data-recording-id="{{id}}" class="LocationData-row">
+                    <td>{{date}}</td>
+                    <td>{{duration_in_traffic}}</td>
+                    <td>{{duration}}</td>
+                    <td>{{distance}}</td>
+                    <td>{{via}}</td>
+                  </tr>
+                {{/recordings}}
+              </table>
+            </div>
+          {{/recording_times}}
         </div>
-        <table class="LocationData">
-          <tr>
-            <th>Departure Time</th>
-            <th>Travel w/ Traffic</th>
-            <th>Travel w/o Traffic</th>
-            <th>Mileage</th>
-            <th>Arrival Time</th>
-          </tr>
-          {{#recordings}}
-            <tr data-recording-id="{{id}}" class="LocationData-row">
-              <td>{{departure_date}}</td>
-              <td>{{time_in_traffic}}</td>
-              <td>{{travel_time}}</td>
-              <td>{{mileage}}</td>
-              <td>{{arrival_time}}</td>
-            </tr>
-          {{/recordings}}
-        </table>
       </div>
-    {{/recording_times}}
-  </div>
+      <div class="col">
+        {{#locations.0}}
+          <div class="Location">
+            <div class="Location-name">
+              {{name}}
+            </div>
+            {{#recording_times}}
+              <div class="Location-recordings">
+                <div class="Location-recordingTime">
+                  {{departure_time}}
+                </div>
+                <table class="LocationData">
+                  <tr>
+                    <th>Date</th>
+                    <th>Travel w/ Traffic</th>
+                    <th>Travel w/o Traffic</th>
+                    <th>Distance</th>
+                    <th>Via</th>
+                  </tr>
+                  {{#recordings}}
+                    <tr data-recording-id="{{id}}" class="LocationData-row">
+                      <td>{{date}}</td>
+                      <td>{{duration_in_traffic}}</td>
+                      <td>{{duration}}</td>
+                      <td>{{distance}}</td>
+                      <td>{{via}}</td>
+                    </tr>
+                  {{/recordings}}
+                </table>
+              </div>
+            {{/recording_times}}
+          </div>
+        {{/locations.0}}
+      </div>
+    </div>
+  {{/is_control}}
 {{/locations}}
-
-{{! Json Structure
-
-{
-  "locations": [{
-    "name": name,
-    "id": id,
-    "recording_times": [{
-      "departure_date": departure_date,
-      "recordings": [{
-        "time_in_traffc": time_in_traffc,
-        "travel_time": travel_time,
-        "mileage": mileage,
-        "arrival_time": arrival_time,
-      }]
-    }]
-  }]
-}
-
-}}
