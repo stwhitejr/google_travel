@@ -45,6 +45,23 @@ function loadJson(prefix) {
          // Compare to first/control
          jsonData[i].recording_times[x].longest_diff = longestDuration - jsonData[0].recording_times[x].longest;
          jsonData[i].recording_times[x].shortest_diff = shortestDuration - jsonData[0].recording_times[x].shortest;
+         // Format shortest and longest to something more verbal
+         if (shortestDuration >= 60) {
+          hourAmount = Math.floor(shortestDuration / 60);
+          minuteAmount = shortestDuration - (hourAmount * 60);
+          shortestDuration = hourAmount + ' hour ' + minuteAmount + ' mins';
+         } else {
+          shortestDuration = shortestDuration + ' mins';
+         }
+         if (longestDuration >= 60) {
+          hourAmount = Math.floor(longestDuration / 60);
+          minuteAmount = longestDuration - (hourAmount * 60);
+          longestDuration = hourAmount + ' hour ' + minuteAmount + ' mins';
+         } else {
+          longestDuration = longestDuration + ' mins';
+         }
+         jsonData[i].recording_times[x].shortest_verbal = shortestDuration;
+         jsonData[i].recording_times[x].longest_verbal = longestDuration;
        }
      }
      jsonData = JSON.stringify(jsonData);
@@ -68,8 +85,72 @@ function loadMustache(jsonData, prefix) {
       var rendered = Mustache.render(mustacheTemplate, jsonData);
       var content = document.getElementById(contentId);
       content.innerHTML = rendered;
+      interface();
     }
   };
   xhttp.open("GET", "template.mustache", true);
   xhttp.send();
+}
+
+function interface() {
+  const locationRecordings = document.getElementsByClassName('Location-recordings--noncontrol');
+  // const controlRecordings = document.getElementsByClassName('Location-recordings--control');
+  // let controlI = 0;
+  // let moveControlFlag;
+  for (var i = 0; locationRecordings.length > i; i++) {
+    const locationDataChild = locationRecordings[i].getElementsByClassName('LocationData')[0];
+    // const controlRecordingsChild = controlRecordings[controlI].getElementsByClassName('LocationData--control')[0];
+    // controlI++;
+    // if (controlI % 6 <= 0) {
+    //   controlI = 0;
+    // }
+    // if (i > 5) {
+    //   moveControlFlag = true;
+    // } else {
+    //   moveControlFlag = false;
+    // }
+    locationRecordings[i].onclick = function() {
+      this.classList.toggle('Location-recordings--active');
+      locationDataChild.classList.toggle('hidden-node');
+      // controlRecordingsChild.classList.toggle('hidden-node');
+      const currentRecordingId = this.getAttribute('data-location-recording-id');
+      const currentLocationElement = document.getElementById(currentRecordingId);
+      // if (moveControlFlag) {
+      //   moveControl(currentLocationElement.offsetTop);
+      // }
+    }
+  }
+}
+
+// function moveControl(top) {
+//   const control = document.getElementById('ControlCol');
+//   const noncontrolTop = document.getElementById('NoncontrolCol').offsetTop;
+//   control.style.marginTop = (top - noncontrolTop) + 'px';
+// }
+let toggleTimeActive;
+function toggleTimes(time, showAll) {
+  const times = document.getElementsByClassName('Location-recordings--noncontrol');
+  if (toggleTimeActive) {
+    showAll = true;
+  }
+  for (var i = 0; times.length > i; i++) {
+    const timeIndex = times[i].getAttribute('data-recording-index');
+    if (showAll) {
+      times[i].classList.remove('hidden-node');
+      toggleTimeActive = false;
+    }
+    if (time != null && !showAll) {
+      if (time != timeIndex) {
+        times[i].classList.toggle('hidden-node');
+      }
+      if (times.length === (i + 1)) {
+        toggleTimeActive = true;
+      }
+    } else if (time != null && showAll) {
+      // Restart once we've removed all hidden nodes
+      if (times.length === (i + 1)) {
+        toggleTimes(time, false);
+      }
+    }
+  }
 }

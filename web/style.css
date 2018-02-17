@@ -13,29 +13,54 @@ body {
   border-radius: 3px;
   box-shadow: 0 0 5px #ccc;
 }
+.Location {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: solid 1px #ccc;
+  float: left;
+  width: 33%;
+}
 .Location-name {
   font-size: 120%;
   font-weight: bold;
 }
 .Location-recordings {
   padding: 5px 0;
+  width: 99%;
 }
 .Location-recordings:last-child {
   padding-bottom: none;
 }
-.Location-recordingTime {
+.LocationRecordingTime {
   font-size: 110%;
-  padding-bottom: 5px;
+  padding: 5px;
+  background-color: #eee;
 }
-.LocationData {
-  border: solid 1px #ccc;
+.LocationRecordingTime-time {
+  font-size: 130%;
+}
+.LocationRecordingTime-caret:before {
+  content: '>';
+}
+.Location-recordings--active .LocationRecordingTime-caret:before {
+  content: 'v';
+}
+.LocationRecordingTime span {
+  padding-right: 5px;
+}
+.LocationRecordingTime-desc {
+  font-size: 70%;
+  color: #666;
+}
+.hidden-node {
+  display: none;
 }
 .LocationData-row:nth-child(odd) {
   background-color: #efefef;
 }
 table {
-  border-radius: 3px;
-  width: 95%;
+  width: 100%;
+  border: none;
 }
 td,
 th {
@@ -52,11 +77,10 @@ th:nth-child(5) {
 td {
   font-size: 90%;
 }
-.flex_box {
-  display: flex;
-  padding-bottom: 20px;
-  margin-bottom: 20px;
-  border-bottom: solid 1px #ccc;
+.flex_box::after {
+  clear:both;
+  display: table;
+  content: ' ';
 }
 .col {
   flex: 1;
@@ -64,4 +88,14 @@ td {
 h1 {
   font-size: 135%;
   font-weight: normal;
+}
+nav {
+  padding-bottom: 20px;
+  display: flex;
+  width: 20%;
+}
+nav a {
+  flex: auto;
+  cursor: pointer;
+  font-weight: bold;
 }

@@ -1,21 +1,40 @@
-{{#locations}}
-  {{^is_control}}
-    <div class="flex_box">
-      <div class="col">
-        <div class="Location">
+<nav>
+{{#locations.0.recording_times}}
+  <a onclick="toggleTimes({{index}}, false);">
+    {{departure_time}}
+  </a>
+{{/locations.0.recording_times}}
+  <a onclick="toggleTimes(null, true);">
+    Show All
+  </a>
+</nav>
+<div class="flex_box">
+  {{! <div class="col" id="NoncontrolCol"> }}
+    {{#locations}}
+      {{^is_control}}
+        <div class="Location" id="{{id}}">
           <div class="Location-name">
             {{name}}
           </div>
           {{#recording_times}}
-            <div class="Location-recordings">
-              <div class="Location-recordingTime">
-                {{departure_time}}
+            <div class="Location-recordings Location-recordings--noncontrol" data-location-recording-id="{{id}}" data-recording-index="{{index}}">
+              <div class="LocationRecordingTime">
+                <span class="LocationRecordingTime-caret"></span>
+                <span class="LocationRecordingTime-time">
+                  {{departure_time}}
+                </span>
+                <span>
+                  <span class="LocationRecordingTime-desc">Shortest:</span>{{shortest_verbal}} {{shortest_diff}}
+                </span>
+                <span>
+                  <span class="LocationRecordingTime-desc">Longest:</span>{{longest_verbal}} {{longest_diff}}
+                </span>
               </div>
-              <table class="LocationData">
+              <table class="LocationData hidden-node">
                 <tr>
                   <th>Date</th>
                   <th>Travel w/ Traffic</th>
-                  <th>Travel w/o Traffic</th>
+                  {{! <th>Travel w/o Traffic</th> }}
                   <th>Distance</th>
                   <th>Via</th>
                 </tr>
@@ -23,7 +42,7 @@
                   <tr data-recording-id="{{id}}" class="LocationData-row">
                     <td>{{date}}</td>
                     <td>{{duration_in_traffic}}</td>
-                    <td>{{duration}}</td>
+                    <!-- <td>{{duration}}</td-->
                     <td>{{distance}}</td>
                     <td>{{via}}</td>
                   </tr>
@@ -32,41 +51,7 @@
             </div>
           {{/recording_times}}
         </div>
-      </div>
-      <div class="col">
-        {{#locations.0}}
-          <div class="Location">
-            <div class="Location-name">
-              {{name}}
-            </div>
-            {{#recording_times}}
-              <div class="Location-recordings">
-                <div class="Location-recordingTime">
-                  {{departure_time}}
-                </div>
-                <table class="LocationData">
-                  <tr>
-                    <th>Date</th>
-                    <th>Travel w/ Traffic</th>
-                    <th>Travel w/o Traffic</th>
-                    <th>Distance</th>
-                    <th>Via</th>
-                  </tr>
-                  {{#recordings}}
-                    <tr data-recording-id="{{id}}" class="LocationData-row">
-                      <td>{{date}}</td>
-                      <td>{{duration_in_traffic}}</td>
-                      <td>{{duration}}</td>
-                      <td>{{distance}}</td>
-                      <td>{{via}}</td>
-                    </tr>
-                  {{/recordings}}
-                </table>
-              </div>
-            {{/recording_times}}
-          </div>
-        {{/locations.0}}
-      </div>
-    </div>
-  {{/is_control}}
-{{/locations}}
+      {{/is_control}}
+    {{/locations}}
+  {{! </div> }}
+</div>
